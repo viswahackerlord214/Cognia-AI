@@ -122,4 +122,5 @@ The web application will open at `http://localhost:5173`.
 
 ## 📄 License & Contact
 
-Built for university knowledge automation and portfolio demonstration.
+Author: Viswa Ravindren
+Motilal Nehru National Institute of Technology, Allahabad
